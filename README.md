@@ -26,31 +26,32 @@ It's not to expensive, but anyway --> https://platform.openai.com/
 
 ## 🛠️ Installation
 
-### Clone repository
-
 ```bash
 git clone https://github.com/babaikka/AI-Wife.git
 cd AI_Wife
+```
 
 ### For normal peoples
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### For real Arch btw femboys
 
 ```bash
 sudo pacman -S python-openai
+```
 
-### Add API to your .bashrc / .zshrc / .fuckrc whatever
+### Add API to your .bashrc / .zshrc / whatever
 
 ```bash
 echo 'export OPENAI_API_KEY=<YOUR API CODE RIGHT HIRE>' >> ~/.fuckrc
-
+```
 
 ### Talk with your new wife
 
 ```bash
 chmod +x app.py
 ./app.py
-
+```
