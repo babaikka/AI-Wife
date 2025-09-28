@@ -19,7 +19,8 @@ It’s designed to be **short, witty, sarcastic, and fun** — more like a real 
 
 ## !!!ATENTION!!!
 
-You have to create and use your own API. I don't want to pay after you =D
+You have to create and use your own API. I don't want to pay after you =D.
+
 It's not to expensive, but anyway --> https://platform.openai.com/
 
 ---
