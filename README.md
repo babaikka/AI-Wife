@@ -46,7 +46,7 @@ sudo pacman -S python-openai
 ### Add API to your .bashrc / .zshrc / whatever
 
 ```bash
-echo 'export OPENAI_API_KEY=<YOUR API CODE RIGHT HIRE>' >> ~/.fuckrc
+echo 'export OPENAI_API_KEY=<YOUR API CODE RIGHT HIRE>' >> ~/.bashrc
 ```
 
 ### Talk with your new wife
